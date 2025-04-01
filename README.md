@@ -8,7 +8,7 @@
         src="https://komarev.com/ghpvc/?username=mihirpatel6996&label=Profile%20views&color=0e75b6&style=flat"
         alt="mihirpatel6996" /> </p>
 
-- 🌱 I’m currently learning **Neural Networks & Tableau**
+- 🌱 I’m currently learning **React & FastAPI**
 
 - 👨‍💻 All of my projects are available at
 [https://mihirpatel6996.github.io/Mihir-Patel-Porfolio/](https://mihirpatel6996.github.io/Mihir-Patel-Porfolio/)
